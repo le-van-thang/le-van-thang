@@ -64,4 +64,7 @@
   <a href="https://www.facebook.com/thang.le.782296" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
+  <a href="https://zalo.me/0333792162" target="_blank">
+    <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge" alt="Zalo" />
+  </a>
 </p>
