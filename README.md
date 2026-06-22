@@ -9,6 +9,13 @@
 
 ---
 
+## 🐍 My Contribution Snake
+<p align="left">
+  <img src="https://raw.githubusercontent.com/le-van-thang/le-van-thang/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 ## 🛠️ Tech Stack & Fullstack Skills
 
 <table>
