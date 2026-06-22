@@ -48,13 +48,14 @@
 ---
 
 ## 📊 My GitHub Metrics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=le-van-thang&show_icons=true&theme=tokyonight&count_private=true" alt="Thang's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=le-van-thang&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=le-van-thang&show_icons=true&theme=gotham&hide_border=true&bg_color=00000000" alt="Thang's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=le-van-thang&layout=compact&theme=gotham&hide_border=true&bg_color=00000000" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=le-van-thang&theme=tokyonight" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=le-van-thang&theme=gotham&hide_border=true&background=00000000" alt="GitHub Streak" width="75%" />
 </p>
 
 ---
